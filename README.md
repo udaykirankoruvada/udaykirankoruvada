@@ -1,6 +1,6 @@
 ### Hi there 👋
 Myself udaykiran koruvada 
-Currently studying btech 6 semester in gayatri vidya parshid college of engineering
+Currently studying btech 7 semester in gayatri vidya parshid college of engineering
 
 <!--
 **udaykirankoruvada/udaykirankoruvada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
