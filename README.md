@@ -14,10 +14,10 @@
 <a href="https://www.leetcode.com/udaykiran13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udaykiran13" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=udaykirankoruvada&show_icons=true&locale=en" alt="udaykirankoruvada" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=udaykirankoruvada&" alt="udaykirankoruvada" />
-</p>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykirankoruvada&show_icons=true&locale=en" alt="udaykirankoruvada" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykirankoruvada&" alt="udaykirankoruvada" />
+</div>
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/udaykiran13?theme=wtf&font=Noto%20Sans%20Lydian)
