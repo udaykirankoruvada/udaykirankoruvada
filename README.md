@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=udaykirankoruvada&show_icons=true&locale=en" alt="udaykirankoruvada" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaykirankoruvada&" alt="udaykirankoruvada" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=udaykirankoruvada&show_icons=true&locale=en" alt="udaykirankoruvada" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=udaykirankoruvada&" alt="udaykirankoruvada" />
 </p>
 
 
